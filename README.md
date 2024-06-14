@@ -71,9 +71,8 @@ https://www.youtube.com/watch?v=TLnH7efQNd0&list=PLDGkOdUX1Ujr9QOsM--ogwJAYu6JD4
 
 ## Reference Videos
 https://youtube.com/live/PLgwz5mDZ_Y?feature=share (golang with slog)
-https://youtube.com/live/pfwDbZHVW1w?feature=share
-https://youtube.com/live/YcSs-jvI0xw?feature=share
-https://youtube.com/live/HMyRPltA_dc?feature=share (not working for now)
+https://youtube.com/live/pfwDbZHVW1w?feature=share \
+https://youtube.com/live/YcSs-jvI0xw?feature=share \
 https://youtube.com/live/jckCXI87Osg?feature=share
 
 
