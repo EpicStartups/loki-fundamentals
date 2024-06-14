@@ -68,3 +68,8 @@ Please ensure that your code follows the project's coding conventions and includ
 
 
 
+**Reference Videos**
+https://youtube.com/live/pfwDbZHVW1w?feature=share
+https://youtube.com/live/YcSs-jvI0xw?feature=share
+https://youtube.com/live/HMyRPltA_dc?feature=share
+https://youtube.com/live/jckCXI87Osg?feature=share
