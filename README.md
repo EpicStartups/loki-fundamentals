@@ -66,7 +66,8 @@ If you would like to contribute to this project, please follow these steps:
 Please ensure that your code follows the project's coding conventions and includes appropriate tests. Thank you for your contribution!
 
 
-
+**What is Loki Overview**
+https://www.youtube.com/watch?v=TLnH7efQNd0&list=PLDGkOdUX1Ujr9QOsM--ogwJAYu6JD48W7
 
 **Reference Videos**
 https://youtube.com/live/PLgwz5mDZ_Y?feature=share (golang with slog)
