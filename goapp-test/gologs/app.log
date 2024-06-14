@@ -1,0 +1,132 @@
+{"time":"2024-06-14T13:54:12.240626352+08:00","level":"INFO","msg":"Random number generated: 54"}
+{"time":"2024-06-14T13:54:17.244881537+08:00","level":"INFO","msg":"Random number generated: 72"}
+{"time":"2024-06-14T13:56:16.218235976+08:00","level":"INFO","msg":"Random number generated: 96"}
+{"time":"2024-06-14T13:56:21.222022912+08:00","level":"INFO","msg":"Random number generated: 32"}
+{"time":"2024-06-14T13:56:26.226025552+08:00","level":"INFO","msg":"Random number generated: 59"}
+{"time":"2024-06-14T13:56:31.230031485+08:00","level":"INFO","msg":"Random number generated: 3"}
+{"time":"2024-06-14T13:56:36.234006002+08:00","level":"INFO","msg":"Random number generated: 97"}
+{"time":"2024-06-14T13:56:41.238026327+08:00","level":"INFO","msg":"Random number generated: 88"}
+{"time":"2024-06-14T13:56:46.242044551+08:00","level":"INFO","msg":"Random number generated: 94"}
+{"time":"2024-06-14T13:56:51.246023913+08:00","level":"INFO","msg":"Random number generated: 86"}
+{"time":"2024-06-14T13:56:56.250022739+08:00","level":"INFO","msg":"Random number generated: 10"}
+{"time":"2024-06-14T13:57:01.254000037+08:00","level":"INFO","msg":"Random number generated: 55"}
+{"time":"2024-06-14T13:57:06.25800216+08:00","level":"INFO","msg":"Random number generated: 46"}
+{"time":"2024-06-14T13:57:11.365323408+08:00","level":"INFO","msg":"Random number generated: 93"}
+{"time":"2024-06-14T13:57:11.365482269+08:00","level":"INFO","msg":"Random number generated from slog","random_number":93}
+{"time":"2024-06-14T13:57:16.369554205+08:00","level":"INFO","msg":"Random number generated: 59"}
+{"time":"2024-06-14T13:57:16.369622045+08:00","level":"INFO","msg":"Random number generated from slog","random_number":59}
+{"time":"2024-06-14T13:57:21.370024433+08:00","level":"INFO","msg":"Random number generated: 7"}
+{"time":"2024-06-14T13:57:21.370091724+08:00","level":"INFO","msg":"Random number generated from slog","random_number":7}
+{"time":"2024-06-14T13:57:26.37400692+08:00","level":"INFO","msg":"Random number generated: 6"}
+{"time":"2024-06-14T13:57:26.37405361+08:00","level":"INFO","msg":"Random number generated from slog","random_number":6}
+{"time":"2024-06-14T13:57:31.378009099+08:00","level":"INFO","msg":"Random number generated: 56"}
+{"time":"2024-06-14T13:57:31.378047659+08:00","level":"INFO","msg":"Random number generated from slog","random_number":56}
+{"time":"2024-06-14T13:57:36.369465245+08:00","level":"INFO","msg":"Random number generated: 99"}
+{"time":"2024-06-14T13:57:36.369630616+08:00","level":"INFO","msg":"Random number generated from slog","random_number":99}
+{"time":"2024-06-14T13:57:36.369644046+08:00","level":"WARN","msg":"Random number generated from slog","random_number":99}
+{"time":"2024-06-14T13:57:36.369650796+08:00","level":"ERROR","msg":"Random number generated from slog","random_number":99}
+{"time":"2024-06-14T13:57:41.370018699+08:00","level":"INFO","msg":"Random number generated: 90"}
+{"time":"2024-06-14T13:57:41.37009006+08:00","level":"INFO","msg":"Random number generated from slog","random_number":90}
+{"time":"2024-06-14T13:57:41.37010919+08:00","level":"WARN","msg":"Random number generated from slog","random_number":90}
+{"time":"2024-06-14T13:57:41.37012442+08:00","level":"ERROR","msg":"Random number generated from slog","random_number":90}
+{"time":"2024-06-14T13:57:46.374034918+08:00","level":"INFO","msg":"Random number generated: 45"}
+{"time":"2024-06-14T13:57:46.374106148+08:00","level":"INFO","msg":"Random number generated from slog","random_number":45}
+{"time":"2024-06-14T13:57:46.374136878+08:00","level":"WARN","msg":"Random number generated from slog","random_number":45}
+{"time":"2024-06-14T13:57:46.374200778+08:00","level":"ERROR","msg":"Random number generated from slog","random_number":45}
+{"time":"2024-06-14T13:57:51.378052294+08:00","level":"INFO","msg":"Random number generated: 50"}
+{"time":"2024-06-14T13:57:51.378132845+08:00","level":"INFO","msg":"Random number generated from slog","random_number":50}
+{"time":"2024-06-14T13:57:51.378154515+08:00","level":"WARN","msg":"Random number generated from slog","random_number":50}
+{"time":"2024-06-14T13:57:51.378212535+08:00","level":"ERROR","msg":"Random number generated from slog","random_number":50}
+{"time":"2024-06-14T13:57:56.382138722+08:00","level":"INFO","msg":"Random number generated: 4"}
+{"time":"2024-06-14T13:57:56.382226573+08:00","level":"INFO","msg":"Random number generated from slog","random_number":4}
+{"time":"2024-06-14T13:57:56.382238113+08:00","level":"WARN","msg":"Random number generated from slog","random_number":4}
+{"time":"2024-06-14T13:57:56.382243923+08:00","level":"ERROR","msg":"Random number generated from slog","random_number":4}
+{"time":"2024-06-14T13:58:01.386057811+08:00","level":"INFO","msg":"Random number generated: 75"}
+{"time":"2024-06-14T13:58:01.386210212+08:00","level":"INFO","msg":"Random number generated from slog","random_number":75}
+{"time":"2024-06-14T13:58:01.386233942+08:00","level":"WARN","msg":"Random number generated from slog","random_number":75}
+{"time":"2024-06-14T13:58:01.386248622+08:00","level":"ERROR","msg":"Random number generated from slog","random_number":75}
+{"time":"2024-06-14T13:58:06.390039683+08:00","level":"INFO","msg":"Random number generated: 35"}
+{"time":"2024-06-14T13:58:06.390140073+08:00","level":"INFO","msg":"Random number generated from slog","random_number":35}
+{"time":"2024-06-14T13:58:06.390162863+08:00","level":"WARN","msg":"Random number generated from slog","random_number":35}
+{"time":"2024-06-14T13:58:06.390179513+08:00","level":"ERROR","msg":"Random number generated from slog","random_number":35}
+{"time":"2024-06-14T13:58:11.39401947+08:00","level":"INFO","msg":"Random number generated: 20"}
+{"time":"2024-06-14T13:58:11.39407739+08:00","level":"INFO","msg":"Random number generated from slog","random_number":20}
+{"time":"2024-06-14T13:58:11.394089+08:00","level":"WARN","msg":"Random number generated from slog","random_number":20}
+{"time":"2024-06-14T13:58:11.39409623+08:00","level":"ERROR","msg":"Random number generated from slog","random_number":20}
+{"time":"2024-06-14T13:58:16.398051313+08:00","level":"INFO","msg":"Random number generated: 48"}
+{"time":"2024-06-14T13:58:16.398143633+08:00","level":"INFO","msg":"Random number generated from slog","random_number":48}
+{"time":"2024-06-14T13:58:16.398168024+08:00","level":"WARN","msg":"Random number generated from slog","random_number":48}
+{"time":"2024-06-14T13:58:16.398184924+08:00","level":"ERROR","msg":"Random number generated from slog","random_number":48}
+{"time":"2024-06-14T13:58:21.402048514+08:00","level":"INFO","msg":"Random number generated: 87"}
+{"time":"2024-06-14T13:58:21.402122015+08:00","level":"INFO","msg":"Random number generated from slog","random_number":87}
+{"time":"2024-06-14T13:58:21.402147815+08:00","level":"WARN","msg":"Random number generated from slog","random_number":87}
+{"time":"2024-06-14T13:58:21.402166545+08:00","level":"ERROR","msg":"Random number generated from slog","random_number":87}
+{"time":"2024-06-14T13:58:26.406046704+08:00","level":"INFO","msg":"Random number generated: 94"}
+{"time":"2024-06-14T13:58:26.406128865+08:00","level":"INFO","msg":"Random number generated from slog","random_number":94}
+{"time":"2024-06-14T13:58:26.406154205+08:00","level":"WARN","msg":"Random number generated from slog","random_number":94}
+{"time":"2024-06-14T13:58:26.406172675+08:00","level":"ERROR","msg":"Random number generated from slog","random_number":94}
+{"time":"2024-06-14T13:58:31.410058944+08:00","level":"INFO","msg":"Random number generated: 17"}
+{"time":"2024-06-14T13:58:31.410148845+08:00","level":"INFO","msg":"Random number generated from slog","random_number":17}
+{"time":"2024-06-14T13:58:31.410173435+08:00","level":"WARN","msg":"Random number generated from slog","random_number":17}
+{"time":"2024-06-14T13:58:31.410192625+08:00","level":"ERROR","msg":"Random number generated from slog","random_number":17}
+{"time":"2024-06-14T13:58:36.414014006+08:00","level":"INFO","msg":"Random number generated: 95"}
+{"time":"2024-06-14T13:58:36.414061556+08:00","level":"INFO","msg":"Random number generated from slog","random_number":95}
+{"time":"2024-06-14T13:58:36.414091926+08:00","level":"WARN","msg":"Random number generated from slog","random_number":95}
+{"time":"2024-06-14T13:58:36.414099937+08:00","level":"ERROR","msg":"Random number generated from slog","random_number":95}
+{"time":"2024-06-14T13:58:41.418039061+08:00","level":"INFO","msg":"Random number generated: 49"}
+{"time":"2024-06-14T13:58:41.418135961+08:00","level":"INFO","msg":"Random number generated from slog","random_number":49}
+{"time":"2024-06-14T13:58:41.418173451+08:00","level":"WARN","msg":"Random number generated from slog","random_number":49}
+{"time":"2024-06-14T13:58:41.418194071+08:00","level":"ERROR","msg":"Random number generated from slog","random_number":49}
+{"time":"2024-06-14T13:58:46.4220391+08:00","level":"INFO","msg":"Random number generated: 67"}
+{"time":"2024-06-14T13:58:46.422117431+08:00","level":"INFO","msg":"Random number generated from slog","random_number":67}
+{"time":"2024-06-14T13:58:46.422139351+08:00","level":"WARN","msg":"Random number generated from slog","random_number":67}
+{"time":"2024-06-14T13:58:46.422155761+08:00","level":"ERROR","msg":"Random number generated from slog","random_number":67}
+{"time":"2024-06-14T13:58:51.426256916+08:00","level":"INFO","msg":"Random number generated: 81"}
+{"time":"2024-06-14T13:58:51.476206083+08:00","level":"INFO","msg":"Random number generated from slog","random_number":81}
+{"time":"2024-06-14T13:58:51.476282693+08:00","level":"WARN","msg":"Random number generated from slog","random_number":81}
+{"time":"2024-06-14T13:58:51.476301733+08:00","level":"ERROR","msg":"Random number generated from slog","random_number":81}
+{"time":"2024-06-14T13:58:56.478064805+08:00","level":"INFO","msg":"Random number generated: 98"}
+{"time":"2024-06-14T13:58:56.478209036+08:00","level":"INFO","msg":"Random number generated from slog","random_number":98}
+{"time":"2024-06-14T13:58:56.478241896+08:00","level":"WARN","msg":"Random number generated from slog","random_number":98}
+{"time":"2024-06-14T13:58:56.478262326+08:00","level":"ERROR","msg":"Random number generated from slog","random_number":98}
+{"time":"2024-06-14T13:59:01.482046684+08:00","level":"INFO","msg":"Random number generated: 79"}
+{"time":"2024-06-14T13:59:01.482136645+08:00","level":"INFO","msg":"Random number generated from slog","random_number":79}
+{"time":"2024-06-14T13:59:01.482157705+08:00","level":"WARN","msg":"Random number generated from slog","random_number":79}
+{"time":"2024-06-14T13:59:01.482172615+08:00","level":"ERROR","msg":"Random number generated from slog","random_number":79}
+{"time":"2024-06-14T13:59:06.486289833+08:00","level":"INFO","msg":"Random number generated: 61"}
+{"time":"2024-06-14T13:59:06.486375184+08:00","level":"INFO","msg":"Random number generated from slog","random_number":61}
+{"time":"2024-06-14T13:59:06.486399474+08:00","level":"WARN","msg":"Random number generated from slog","random_number":61}
+{"time":"2024-06-14T13:59:06.486415874+08:00","level":"ERROR","msg":"Random number generated from slog","random_number":61}
+{"time":"2024-06-14T13:59:11.490028172+08:00","level":"INFO","msg":"Random number generated: 40"}
+{"time":"2024-06-14T13:59:11.490100062+08:00","level":"INFO","msg":"Random number generated from slog","random_number":40}
+{"time":"2024-06-14T13:59:11.490119332+08:00","level":"WARN","msg":"Random number generated from slog","random_number":40}
+{"time":"2024-06-14T13:59:11.490134412+08:00","level":"ERROR","msg":"Random number generated from slog","random_number":40}
+{"time":"2024-06-14T13:59:16.490251699+08:00","level":"INFO","msg":"Random number generated: 61"}
+{"time":"2024-06-14T13:59:16.490328049+08:00","level":"INFO","msg":"Random number generated from slog","random_number":61}
+{"time":"2024-06-14T13:59:16.490348799+08:00","level":"WARN","msg":"Random number generated from slog","random_number":61}
+{"time":"2024-06-14T13:59:16.490365199+08:00","level":"ERROR","msg":"Random number generated from slog","random_number":61}
+{"time":"2024-06-14T13:59:21.494489024+08:00","level":"INFO","msg":"Random number generated: 38"}
+{"time":"2024-06-14T13:59:21.494579505+08:00","level":"INFO","msg":"Random number generated from slog","random_number":38}
+{"time":"2024-06-14T13:59:21.494642125+08:00","level":"WARN","msg":"Random number generated from slog","random_number":38}
+{"time":"2024-06-14T13:59:21.494667195+08:00","level":"ERROR","msg":"Random number generated from slog","random_number":38}
+{"time":"2024-06-14T13:59:54.676569555+08:00","level":"INFO","msg":"Random number generated from slog","random_number":39}
+{"time":"2024-06-14T13:59:54.676749595+08:00","level":"WARN","msg":"Random number generated from slog","random_number":39}
+{"time":"2024-06-14T13:59:54.676760415+08:00","level":"DEBUG","msg":"Random number generated from slog","random_number":39}
+{"time":"2024-06-14T13:59:54.676769035+08:00","level":"ERROR","msg":"Random number generated from slog","random_number":39}
+{"time":"2024-06-14T13:59:59.678023134+08:00","level":"INFO","msg":"Random number generated from slog","random_number":97}
+{"time":"2024-06-14T13:59:59.678091374+08:00","level":"WARN","msg":"Random number generated from slog","random_number":97}
+{"time":"2024-06-14T13:59:59.678099214+08:00","level":"DEBUG","msg":"Random number generated from slog","random_number":97}
+{"time":"2024-06-14T13:59:59.678105204+08:00","level":"ERROR","msg":"Random number generated from slog","random_number":97}
+{"time":"2024-06-14T14:00:04.682025575+08:00","level":"INFO","msg":"Random number generated from slog","random_number":58}
+{"time":"2024-06-14T14:00:04.682103795+08:00","level":"WARN","msg":"Random number generated from slog","random_number":58}
+{"time":"2024-06-14T14:00:04.682115405+08:00","level":"DEBUG","msg":"Random number generated from slog","random_number":58}
+{"time":"2024-06-14T14:00:04.682123805+08:00","level":"ERROR","msg":"Random number generated from slog","random_number":58}
+{"time":"2024-06-14T14:00:12.765454533+08:00","level":"ERROR","msg":"Random number generated from slog","random_number":96}
+{"time":"2024-06-14T14:00:17.769298726+08:00","level":"ERROR","msg":"Random number generated from slog","random_number":46}
+{"time":"2024-06-14T14:01:26.089678406+08:00","level":"ERROR","source":{"function":"main.main.func1","file":"/home/ming/playground/loki-fundamentals/goapp-test/main.go","line":36},"msg":"Random number generated from slog","random_number":99}
+{"time":"2024-06-14T14:01:31.093453897+08:00","level":"ERROR","source":{"function":"main.main.func1","file":"/home/ming/playground/loki-fundamentals/goapp-test/main.go","line":36},"msg":"Random number generated from slog","random_number":52}
+{"time":"2024-06-14T14:01:36.094075331+08:00","level":"ERROR","source":{"function":"main.main.func1","file":"/home/ming/playground/loki-fundamentals/goapp-test/main.go","line":36},"msg":"Random number generated from slog","random_number":20}
+{"time":"2024-06-14T14:01:41.098260819+08:00","level":"ERROR","source":{"function":"main.main.func1","file":"/home/ming/playground/loki-fundamentals/goapp-test/main.go","line":36},"msg":"Random number generated from slog","random_number":46}
+{"time":"2024-06-14T14:01:46.102006551+08:00","level":"ERROR","source":{"function":"main.main.func1","file":"/home/ming/playground/loki-fundamentals/goapp-test/main.go","line":36},"msg":"Random number generated from slog","random_number":79}
+{"time":"2024-06-14T14:01:51.1060401+08:00","level":"ERROR","source":{"function":"main.main.func1","file":"/home/ming/playground/loki-fundamentals/goapp-test/main.go","line":36},"msg":"Random number generated from slog","random_number":23}
+{"time":"2024-06-14T14:01:56.110076345+08:00","level":"ERROR","source":{"function":"main.main.func1","file":"/home/ming/playground/loki-fundamentals/goapp-test/main.go","line":36},"msg":"Random number generated from slog","random_number":89}

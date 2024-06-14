@@ -1,23 +1,31 @@
 version: '3'
 services:
-  carnivorous-garden:
-    build:
-      context: .
-      dockerfile: Dockerfile
-    ports: 
-      - 5005:5000
-    volumes:
-      - ./logs:/app/logs/
+  # goapp:
+  #   build: 
+  #     context: ./goapp-test
+  #     dockerfile: Dockerfile
+  #   ports:
+  #     - 5006:8080
+  #   volumes:
+  #     - ./goapp-test/gologs:/app/logs
+  # carnivorous-garden:
+  #   build:
+  #     context: .
+  #     dockerfile: Dockerfile
+  #   ports: 
+  #     - 5005:5000
+  #   volumes:
+  #     - ./logs:/app/logs/
   alloy:
     image: grafana/alloy:latest
     ports:
       - 12345:12345
     volumes:
       - ./alloy-config.alloy:/etc/alloy/config.alloy
-      - ./logs:/tmp/app-logs/
+      - ./goapp-test/gologs:/tmp/app-logs/
     command: run --server.http.listen-addr=0.0.0.0:12345 --storage.path=/var/lib/alloy/data /etc/alloy/config.alloy
     depends_on:
-      - carnivorous-garden
+      # - goapp
       - loki
   loki:
     image: grafana/loki:main-e9b6ce9

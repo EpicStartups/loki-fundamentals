@@ -1,0 +1,17 @@
+FROM golang:1.22-alpine
+
+WORKDIR /app
+
+COPY go.mod ./
+
+RUN go mod download && go mod verify
+
+COPY . .
+
+RUN go build -o main .
+
+# Expose port 8080 to the outside world
+EXPOSE 8080
+
+
+CMD ["./main"]
