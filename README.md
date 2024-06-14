@@ -67,10 +67,10 @@ Please ensure that your code follows the project's coding conventions and includ
 
 
 ## Watch all these videos in sequence
-https://www.youtube.com/watch?v=TLnH7efQNd0&list=PLDGkOdUX1Ujr9QOsM--ogwJAYu6JD48W7
+https://www.youtube.com/watch?v=TLnH7efQNd0&list=PLDGkOdUX1Ujr9QOsM--ogwJAYu6JD48W7 \
 https://youtube.com/live/pfwDbZHVW1w?feature=share \
 https://youtube.com/live/YcSs-jvI0xw?feature=share \
-https://youtube.com/live/jckCXI87Osg?feature=share
+https://youtube.com/live/jckCXI87Osg?feature=share \
 https://youtube.com/live/PLgwz5mDZ_Y?feature=share (golang with slog)
 
 
